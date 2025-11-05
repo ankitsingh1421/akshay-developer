@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live](https://akshay-developer.vercel.app/)
 
 ## 🛠️ Tech Stack
 
