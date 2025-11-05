@@ -42,19 +42,6 @@ const About = () => {
           <p className="mt-8 mb-10 text-base leading-relaxed text-gray-400 sm:text-lg md:text-lg">
             I am a Front-End Developer passionate about building responsive, user-friendly, and visually appealing web applications. Skilled in modern front-end technologies and frameworks, I specialize in creating seamless user interfaces and smooth user experiences. With a strong foundation in the MERN stack and other cutting-edge tools, I focus on writing clean, efficient code and bringing designs to life with performance and accessibility in mind.
           </p>
-          {/* Resume Button */}
-          <a
-            href="https://drive.google.com/file/d/1_pLl2wjYVCU-wnqXIhjhYr0YC0SJXvwv/view?usp=sharing"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block px-8 py-3 mt-5 text-lg font-bold text-white transition duration-300 transform rounded-full hover:scale-105"
-            style={{
-              background: 'linear-gradient(90deg, #8245ec, #a855f7)',
-              boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
-            }}
-          >
-            DOWNLOAD CV
-          </a>
           
         </div>
         {/* Right Side */}
